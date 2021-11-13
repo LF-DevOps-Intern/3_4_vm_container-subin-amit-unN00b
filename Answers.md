@@ -19,7 +19,9 @@ and other nuances that we might face while setting up the environment.
 
 Virtualization can be used to create many instances of virtual machines on the same hardware at a same time. This alone has many
 benefits such as proper utilization of resources, sharing of unused resources and cost reduction. Virtualization also solves the problem
-of scalability. Making backups, managing machines and creating snapshots is easy.
+of scalability. Making backups, managing machines and creating snapshots is easy. It also helps to obtain more uptime.
+
+However, virtualization has some drawbacks as well.
 
 
 #### 4. What are the problems Container solves in regard to app deployment and how it solves?
