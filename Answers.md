@@ -26,3 +26,6 @@ that it works well upon deployment. Also sometimes, application-level virtualiza
 
 
 #### 4. What are the problems Container solves in regard to app deployment and how it solves?
+
+Firstly, containers provide application-level isolation. This greatly increases the performance so we don't need different virtual machines if we need to isolate a number
+of applications.
