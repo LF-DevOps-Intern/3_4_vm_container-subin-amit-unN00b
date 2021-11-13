@@ -17,10 +17,9 @@ and other nuances that we might face while setting up the environment.
 
 #### 3. What problem does Virtualization solves and what is its drawback in context to modern application deployments?
 
-Virtuatualization can be used to create many instances of virtual machines on the same hardware at a same time. This alone has many
+Virtualization can be used to create many instances of virtual machines on the same hardware at a same time. This alone has many
 benefits such as proper utilization of resources, sharing of unused resources and cost reduction. Virtualization also solves the problem
-of scalability.
-
+of scalability. Making backups, managing machines and creating snapshots is easy.
 
 
 #### 4. What are the problems Container solves in regard to app deployment and how it solves?
