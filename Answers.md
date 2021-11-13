@@ -23,6 +23,8 @@ of scalability. Making backups, managing machines and creating snapshots is easy
 
 However, virtualization has some drawbacks as well. During deployment, various types of machines need to be supported. This doesn't make sure
 that it works well upon deployment. Also sometimes, application-level virtualization might be needed which is not supported by traditional virtualization.
+Because we might need to isolate different applications without necessarily making different machines and
+allocating more resources, this might be a major shortcoming.
 
 
 #### 4. What are the problems Container solves in regard to app deployment and how it solves?
