@@ -30,4 +30,5 @@ allocating more resources, this might be a major shortcoming.
 #### 4. What are the problems Container solves in regard to app deployment and how it solves?
 
 Firstly, containers provide application-level isolation. This greatly increases the performance so we don't need different virtual machines if we need to isolate a number
-of applications.
+of applications. Its because the applications run without full hardware virtualization and has much less overhead. Containerization solves this by
+the use of container engine, which has much lighter footprint.
