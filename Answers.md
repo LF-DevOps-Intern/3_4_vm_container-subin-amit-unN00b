@@ -8,5 +8,12 @@ then a feature called passthrough is used. All the resources like CPU, RAM, netw
 its running on a real hardware.
 
 #### 2. Explain Working mechanism of Containers.
+
+Container, in simple terms can be thought of as a package that contains everything that is needed, inside a single unit.
+Using the same concept, containers in IT contains all the required dependencies along with the code. This makes us easy
+to set up the environment, whether it is for development or deployment. Unlike VMs, the container engine isolates the
+programs from other programs. We can focus less on how to manage dependencies
+and other nuances that we might face while setting up the environment.
+
 #### 3. What problem does Virtualization solves and what is its drawback in context to modern application deployments?
 #### 4. What are the problems Container solves in regard to app deployment and how it solves?
