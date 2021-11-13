@@ -32,3 +32,6 @@ allocating more resources, this might be a major shortcoming.
 Firstly, containers provide application-level isolation. This greatly increases the performance so we don't need different virtual machines if we need to isolate a number
 of applications. Its because the applications run without full hardware virtualization and has much less overhead. Containerization solves this by
 the use of container engine, which has much lighter footprint.
+
+Also on the other hand, containers come with everything the application needs as a single package. So its easy to deploy and works on any type of machine that runs container engine.
+
